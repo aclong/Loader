@@ -1,0 +1,3 @@
+name: itn_to_osm
+dependencies:
+  - pip
