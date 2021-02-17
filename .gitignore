@@ -6,3 +6,5 @@ tags
 /python/*.config
 *.config
 
+/temp_working/
+
