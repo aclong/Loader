@@ -1,3 +1,5 @@
 name: itn_to_osm
 dependencies:
+  - gdal
+  - lxml
   - pip
